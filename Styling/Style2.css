@@ -1,0 +1,20 @@
+
+p.top{
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+}
+div.box{
+    border:blueviolet solid 4px
+}
+div.box2{
+    border:blueviolet solid 4px
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    border: black solid 5px;
+}
